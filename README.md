@@ -9,7 +9,11 @@
 
 <hr/>
 
-### Other
+### Algorithm
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=luawill)](https://solved.ac/luawill)</br>
+
+<hr/>
+
+### Github
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=babybeb&layout=compact&theme=great-gatsby&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)</br>
 ![babEbab's GitHub stats](https://github-readme-stats.vercel.app/api?username=babybeb&show_icons=true&theme=great-gatsby)
